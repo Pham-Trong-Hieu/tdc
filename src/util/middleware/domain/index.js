@@ -43,11 +43,11 @@ function confirmDomain(req, res, next) {
 
       if (!pool[dbName]) {
         const dbConfig = {
-          host: "taixecongnghe.com",
+          host: "bafzmishkw4tibaxnamp-mysql.services.clever-cloud.com",
           port: "3306",
-          user: "sql_daily_txcn",
-          password: "57989980e1",
-          database: dbName,
+          user: "usz36ahjbnmtbqyn",
+          password: "1YrvUF4TgWRHA1NnBcZT",
+          database: 'bafzmishkw4tibaxnamp',
           multipleStatements: true,
           charset: "utf8mb4",
         };
